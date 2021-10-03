@@ -1,8 +1,4 @@
-### 📍 • Rio de janeiro, Brazil
-### 🔭 • I’m currently working on freelance projects
-### 💬 • Ask me about what you want to
-### ☎️ • My Contact: daark#0737
-
+### Ola me chamo Daark! 👨🏻‍💻
 
 <div align="inline_block">
   <a href="https://https://github.com/DaarkX">
