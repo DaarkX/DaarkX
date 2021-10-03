@@ -5,7 +5,11 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daark_dev/)
 
-![Daark GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaarkX&show_icons=true&theme=tokyonight&count_private=true)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Tecnologias que trabalho atualmente:
 
