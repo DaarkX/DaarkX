@@ -1,4 +1,4 @@
-## Ola me chamo Daark! 👨🏻‍💻
+## Ola, me chamo Daark! 👨🏻‍💻
 
 <div align="inline_block"><br/>
   <a href="https://https://github.com/DaarkX">
