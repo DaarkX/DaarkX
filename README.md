@@ -2,8 +2,8 @@
 
 <div align="inline_block"><br/>
   <a href="https://https://github.com/DaarkX">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaarkX&show_icons=true&theme=tokionight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaarkX&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaarkX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaarkX&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ## Tecnologias que trabalho atualmente:
