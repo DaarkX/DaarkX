@@ -3,7 +3,6 @@
 ### 💬 • Ask me about what you want to
 ### ☎️ • My Contact: daark#0737
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daark_dev/)
 
 <div align="inline_block">
   <a href="https://https://github.com/DaarkX">
