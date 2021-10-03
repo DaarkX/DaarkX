@@ -1,4 +1,7 @@
-### Olá, Eu sou o Daark! 💻
+### 📍 • Rio de janeiro, Brazil
+### 🔭 • I’m currently working on freelance projects
+### 💬 • Ask me about what you want to
+### ☎️ • My Contact: daark#0737
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daark_dev/)
 
